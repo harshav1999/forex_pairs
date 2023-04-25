@@ -1,15 +1,15 @@
-import cot_reports as cot
-import streamlit as st
-import numpy as np
-import plotly.graph_objects as go
+# import cot_reports as cot
+# import streamlit as st
+# import numpy as npr
+# import plotly.graph_objects as go
 import requests
-from bs4 import BeautifulSoup
-import pandas as pd
+# from bs4 import BeautifulSoup
+# import pandas as pd
 import time
 import random
 
-import seaborn as sns
-import matplotlib.pyplot as plt
+# import seaborn as sns
+# import matplotlib.pyplot as plt
 import requests
 import json
 import datetime;
